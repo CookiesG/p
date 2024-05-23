@@ -25,7 +25,7 @@
 			<li>G</li>
 			<li>E<li>
 			<li>E</li>
-			<li>K</li>
+			<li>K</ li>
 			<li>&nbsp</li>
 			<li>F</li>
 			<li>A</li>
