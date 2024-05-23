@@ -29,7 +29,7 @@
 			<li>&nbsp</li>
 			<li>F</li>
 			<li>A</li>
-			<li>C</li>
+			<li>C</ li>
 			<li>T</li>
 			<li>O</li>
 			<li>R</ li>
