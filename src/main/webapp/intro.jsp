@@ -1,11 +1,11 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html>
 <head>
-	<meta charset="UTF-8">
+	<meta charset="UTF -8">
 	<meta name="vieport" content="width=device-width, initial-scale=1.0">
-	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<meta htquiv="X-UA-Compatible" content="ie=edge">
 	<title>Geek Factory Project</title>
 	<link rel="stylesheet" href="./css/intro-style.css">
 	<link rel="icon" href="./img/icon.png">
@@ -23,7 +23,7 @@
 			
 			<li>&lt</li>
 			<li>G</li>
-			<li>E</li>
+			<li>E<li>
 			<li>E</li>
 			<li>K</li>
 			<li>&nbsp</li>
@@ -34,7 +34,7 @@
 			<li>O</li>
 			<li>R</li>
 			<li>Y</li>
-			<li>/&gt</li>
+			<li>/&gt</      li>
 			
 			</ul>
 			
@@ -46,7 +46,6 @@
 <script type="text/javascript">
 
 $(function() {
-	var welcomeSection = $('.welcome-section'),
 						enterButton = welcomeSection.find('.enter-button');
 						
 		setTimeout(function() {
